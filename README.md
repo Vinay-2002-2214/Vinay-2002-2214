@@ -25,32 +25,42 @@ Aspiring Java Full Stack Developer with a solid foundation in building scalable,
 ## 🎓 Education 
 
 - Anurag Engineering College 
-  - Bachelor of Technology in Computer Science and Engineering (2021 - 2025) 
-  - CGPA: 8.88/10
+ - Bachelor of Technology in Computer Science and Engineering (2021 - 2025) 
+ - CGPA: 8.88/10
 
 - Sri Vagdevi Junior College 
-  - Board of Intermediate Education (2019 - 2021) 
-  - Percentage: 94.6%
+ - Board of Intermediate Education (2019 - 2021) 
+ - Percentage: 94.6%
 
 - ZPHS Kodad 
-  - Secondary School of Education (2018 - 2019) 
-  - CGPA: 9.2/10 
+ - Secondary School of Education (2018 - 2019) 
+ - CGPA: 9.2/10 
+
+---
+
+## 💼 Experience 
+
+### Amazon Development Centre India Pvt. Ltd. 
+AI/ML Data Associate | Oct 2025 – Dec 2025
+- Worked on annotation, labeling, and validation of data for AI and ML models to enhance automation accuracy in visual data recognition.
+- Collaborated with internal teams to identify and correct data inconsistencies and improve ML model training datasets.
+- Gained exposure to AWS and internal ML tools for scalable data processing and quality analysis, strengthening understanding of AI data pipelines, quality metrics, and model evaluation workflows.
 
 ---
 
 ## 💡 Projects 
 
 - 🔍 Product Recommendation System 
-  - Developed a User Interest and Personality-Based Product Recommendation System using Metapath Discovery to address issues like cold-start and generic suggestions. Delivered more accurate, diverse, and psychologically aligned product recommendations.
-  - Tools Used: Python, Flask, NumPy, Pandas, Scikit-learn, OCEAN Framework, HTML, CSS, JavaScript
+ - Developed a User Interest and Personality-Based Product Recommendation System using Metapath Discovery to address issues like cold-start and generic suggestions. Delivered more accurate, diverse, and psychologically aligned product recommendations.
+ - Tools Used: Python, Flask, NumPy, Pandas, Scikit-learn, OCEAN Framework, HTML, CSS, JavaScript
 
 - 🚗 Mileage Prediction Regression Analysis 
-  - Developed a regression model that accurately predicts vehicle mileage based on various attributes. 
-  - Tools Used: ML and Data Science frameworks.
+ - Developed a regression model that accurately predicts vehicle mileage based on various attributes. 
+ - Tools Used: ML and Data Science frameworks.
 
 - 🍕 Pizza Store Application 
-  - Created a fully functional pizza store application with React for the front end, JavaScript for logic, and JSON Server for data storage. Implemented CRUD functionalities and responsive design using Bootstrap.
-  - Tools Used: HTML, CSS, JavaScript, React.js, JSON Server, Bootstrap
+ - Created a fully functional pizza store application with React for the front end, JavaScript for logic, and JSON Server for data storage. Implemented CRUD functionalities and responsive design using Bootstrap.
+ - Tools Used: HTML, CSS, JavaScript, React.js, JSON Server, Bootstrap
 
 ---
 
