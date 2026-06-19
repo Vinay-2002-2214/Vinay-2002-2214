@@ -1,9 +1,9 @@
 # 🌟 PORALLA VINAY KUMAR 🌟
 
-- 📧 Email: [ vinaykumarporalla33@gmail.com ](mailto: vinaykumarporalla33@gmail.com )
+- 📧 Email: vinaykumarporalla33@gmail.com
 - 📞 Phone: +91 9515095213
-- 🌐 Portfolio: [Portfolio Website](#)
-- 💼 LinkedIn: [LinkedIn Profile](#)
+- 🌐 Portfolio:https://vinay-2002-2214.github.io/portfolio/
+- 💼 LinkedIn:https://vinay-2002-2214.github.io/portfolio/
 - 📍 Location: Hyderabad, India
 
 ---
